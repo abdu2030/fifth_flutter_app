@@ -110,7 +110,7 @@ The filtering system dynamically updates the displayed recipes based on selected
 2. Navigate to the project folder:
 
    ```bash
-   cd fifth_flutter_app
+   cd meals_app
    ```
 
 3. Install dependencies:
