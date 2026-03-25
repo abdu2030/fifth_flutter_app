@@ -15,7 +15,9 @@ final theme = ThemeData(
 );
 
 void main() {
-  runApp(const ProviderScope(child: App()));//ProviderScope is the root container that stores and manages all your providers. Without it ❌ Riverpod will NOT work.
+  runApp(
+    const ProviderScope(child: App()),
+  ); //ProviderScope is the root container that stores and manages all your providers. Without it ❌ Riverpod will NOT work.
 }
 
 class App extends StatelessWidget {
@@ -23,6 +25,10 @@ class App extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(theme: theme, home: const TabsScreen());
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      theme: theme,
+      home: const TabsScreen(),
+    );
   }
 }

@@ -25,7 +25,7 @@ const dummyMeals = [
     affordability: Affordability.affordable,
     complexity: Complexity.simple,
     imageUrl:
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg',
+        'https://www.allrecipes.com/thmb/jqhIoI7oJd57DuLIje4zP_CeXt0=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Easyspaghettiwithtomatosauce_11715_DDMFS_4x3_2424-8d7bf30b2622465f9dd78a2c6277eeb8.jpg',
     duration: 20,
     ingredients: [
       '4 Tomatoes',
