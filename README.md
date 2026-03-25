@@ -12,50 +12,50 @@ This project demonstrates core mobile development concepts such as state managem
 
 ### 📂 Category-Based Browsing
 
-* Recipes are organized into multiple categories such as Italian, German, and more.
-* Users can easily navigate through categories to explore different types of meals.
+- Recipes are organized into multiple categories such as Italian, German, and more.
+- Users can easily navigate through categories to explore different types of meals.
 
 ### 🥗 Advanced Filtering System
 
 Users can filter recipes based on dietary needs:
 
-* Vegan
-* Vegetarian
-* Gluten-free
-* Lactose-free
+- Vegan
+- Vegetarian
+- Gluten-free
+- Lactose-free
 
 The filtering system dynamically updates the displayed recipes based on selected preferences.
 
 ### ❤️ Favorites Management
 
-* Users can mark recipes as favorites.
-* A dedicated Favorites screen allows quick access to saved recipes.
-* Demonstrates state synchronization across multiple screens.
+- Users can mark recipes as favorites.
+- A dedicated Favorites screen allows quick access to saved recipes.
+- Demonstrates state synchronization across multiple screens.
 
 ### ⚡ Responsive UI
 
-* Clean and structured layout
-* Smooth navigation between screens
-* Real-time UI updates when filters or favorites change
+- Clean and structured layout
+- Smooth navigation between screens
+- Real-time UI updates when filters or favorites change
 
 ---
 
 ## 🛠 Tech Stack
 
-* **Flutter** – UI toolkit for building natively compiled applications
-* **Dart** – Programming language used for Flutter development
-* **State Management** – (Riverpod / Provider)
-* **Material Design** – For consistent UI components
+- **Flutter** – UI toolkit for building natively compiled applications
+- **Dart** – Programming language used for Flutter development
+- **State Management** – (Riverpod / Provider)
+- **Material Design** – For consistent UI components
 
 ---
 
 ## 🧠 Key Concepts Demonstrated
 
-* State management and data flow
-* Dynamic filtering logic
-* Navigation between multiple screens
-* List rendering and UI updates
-* Separation of concerns (UI vs logic)
+- State management and data flow
+- Dynamic filtering logic
+- Navigation between multiple screens
+- List rendering and UI updates
+- Separation of concerns (UI vs logic)
 
 ---
 
@@ -63,11 +63,21 @@ The filtering system dynamically updates the displayed recipes based on selected
 
 ## 📸 Screenshots
 
-![Home Screen](assets/images/home_page.jpg)
-![Recipe Details](assets/images/meals_detail_page.jpg)
-![Favorite Screen](assets/images/favorites_page.jpg)
-![Filters Screen](assets/images/filters_page.jpg)
-![Meal List Screen](assets/images/meals_list_page.jpg)
+<a href="assets/images/home_page.jpg">
+  <img src="assets/images/home_page.jpg" width="200">
+</a>
+<a href="assets/images/meals_detail_page.jpg">
+  <img src="assets/images/meals_detail_page.jpg" width="200">
+</a>
+<a href="assets/images/favorites_page.jpg">
+  <img src="assets/images/favorites_page.jpg" width="200">
+</a>
+<a href="assets/images/filters_page.jpg">
+  <img src="assets/images/filters_page.jpg" width="200">
+</a>
+<a href="assets/images/meals_list_page.jpg">
+  <img src="assets/images/meals_list_page.jpg" width="200">
+</a>
 
 ---
 
@@ -119,20 +129,20 @@ The filtering system dynamically updates the displayed recipes based on selected
 
 ## 📚 What I Learned
 
-* Implementing state management for scalable applications
-* Handling user interactions and updating UI dynamically
-* Designing clean and user-friendly interfaces
-* Structuring Flutter projects for better readability and maintenance
+- Implementing state management for scalable applications
+- Handling user interactions and updating UI dynamically
+- Designing clean and user-friendly interfaces
+- Structuring Flutter projects for better readability and maintenance
 
 ---
 
 ## 🔮 Future Improvements
 
-* Persist favorites using local storage (SharedPreferences / Hive)
-* Integrate backend or API for dynamic recipe data
-* Add search functionality
-* Improve UI/UX with animations and transitions
-* User authentication and cloud sync
+- Persist favorites using local storage (SharedPreferences / Hive)
+- Integrate backend or API for dynamic recipe data
+- Add search functionality
+- Improve UI/UX with animations and transitions
+- User authentication and cloud sync
 
 ---
 
