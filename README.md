@@ -93,12 +93,6 @@ The filtering system dynamically updates the displayed recipes based on selected
 
 ---
 
-## 🎥 Demo Video
-
-(Add YouTube demo link here)
-
----
-
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
